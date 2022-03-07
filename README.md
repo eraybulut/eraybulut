@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @eraybulut
-- Jr developer
+- 👋 Hi, I’m Eray Bulut 
+- Jr Developer
