@@ -22,4 +22,4 @@
 
 | XD | Figma |
 | :-: | :-: | 
-|<img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>|<img align="center" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="photoshop" width="40" height="40"/>|<img align="center" src="/>|
+|<img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>|<img align="center" src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="photoshop" width="40" height="40"/>|<img align="center" src="/>|
